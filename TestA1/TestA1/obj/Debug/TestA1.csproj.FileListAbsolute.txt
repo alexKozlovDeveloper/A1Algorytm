@@ -11,3 +11,6 @@ C:\Users\Aliaksei_Kazlou\documents\visual studio 2013\Projects\TestA1\TestA1\obj
 C:\Users\Aliaksei_Kazlou\documents\visual studio 2013\Projects\TestA1\TestA1\obj\Debug\TestA1.csproj.GenerateResource.Cache
 C:\Users\Aliaksei_Kazlou\documents\visual studio 2013\Projects\TestA1\TestA1\obj\Debug\TestA1.exe
 C:\Users\Aliaksei_Kazlou\documents\visual studio 2013\Projects\TestA1\TestA1\obj\Debug\TestA1.pdb
+C:\Users\Aliaksei_Kazlou\Documents\A1Algorytm\TestA1\TestA1\bin\Debug\TestA1.exe.config
+C:\Users\Aliaksei_Kazlou\Documents\A1Algorytm\TestA1\TestA1\obj\Debug\TestA1.exe
+C:\Users\Aliaksei_Kazlou\Documents\A1Algorytm\TestA1\TestA1\obj\Debug\TestA1.pdb

@@ -13,6 +13,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using MapObjects.Constant;
 using MapObjects.MapEntityes;
 
 namespace TestA1
@@ -33,7 +34,7 @@ namespace TestA1
                 Height = 10,
                 Width = 10,
                 Margin = new Thickness(50, 50, 0, 0),
-                Source = new BitmapImage(new Uri(@"D:\images\Green.jpg"))
+                Source = new BitmapImage(MapConstant.GreenImageUri)
             };
 
             GridMain.Children.Add(img);

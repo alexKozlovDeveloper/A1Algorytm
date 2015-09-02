@@ -43,6 +43,7 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Constant\MapConstant.cs" />
     <Compile Include="MapEntityes\Map.cs" />
     <Compile Include="MapEntityes\MapCell.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
