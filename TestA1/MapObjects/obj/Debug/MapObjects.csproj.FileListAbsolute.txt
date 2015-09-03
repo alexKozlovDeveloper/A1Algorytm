@@ -1,0 +1,8 @@
+C:\Users\Aliaksei_Kazlou\Documents\A1Algorytm\TestA1\MapObjects\bin\Debug\MapObjects.dll
+C:\Users\Aliaksei_Kazlou\Documents\A1Algorytm\TestA1\MapObjects\bin\Debug\MapObjects.pdb
+C:\Users\Aliaksei_Kazlou\Documents\A1Algorytm\TestA1\MapObjects\obj\Debug\MapObjects.dll
+C:\Users\Aliaksei_Kazlou\Documents\A1Algorytm\TestA1\MapObjects\obj\Debug\MapObjects.pdb
+D:\A1Algorytm\TestA1\MapObjects\bin\Debug\MapObjects.dll
+D:\A1Algorytm\TestA1\MapObjects\bin\Debug\MapObjects.pdb
+D:\A1Algorytm\TestA1\MapObjects\obj\Debug\MapObjects.dll
+D:\A1Algorytm\TestA1\MapObjects\obj\Debug\MapObjects.pdb

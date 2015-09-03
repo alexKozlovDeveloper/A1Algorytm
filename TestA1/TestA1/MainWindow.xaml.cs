@@ -23,21 +23,26 @@ namespace TestA1
     /// </summary>
     public partial class MainWindow : Window
     {
-        private Image img;
+        private Image _img;
+        private Map _map;
 
         public MainWindow()
         {
             InitializeComponent();
-            
-            img = new Image
-            {
-                Height = 10,
-                Width = 10,
-                Margin = new Thickness(50, 50, 0, 0),
-                Source = new BitmapImage(MapConstant.GreenImageUri)
-            };
 
-            GridMain.Children.Add(img);
+            //_img = new Image
+            //{
+            //    Height = 10,
+            //    Width = 10,
+            //    Margin = new Thickness(50, 50, 0, 0),
+            //    Source = new BitmapImage(MapConstant.GreenImageUri)
+            //};
+
+            //GridMain.Children.Add(_img);
+
+            _map = new Map(10, 10, GridMain);
+
+            
 
             //var map = new Map(100, 100, GridMain);
         }

@@ -20,7 +20,7 @@ namespace MapObjects.MapEntityes
 
         public Image Image { get; set; }
 
-        public MapCell(int x, int y, int height = MapConstant.CellHeight, int width = MapConstant.CellWidth)
+        public MapCell(int x, int y, Uri imageUri ,int height = MapConstant.CellHeight, int width = MapConstant.CellWidth)
         {
             Height = height;
             Width = width;
@@ -28,12 +28,17 @@ namespace MapObjects.MapEntityes
             X = x;
             Y = y;
 
+            InitImage(imageUri);
+        }
+
+        private void InitImage(Uri imageUri)
+        {
             Image = new Image
             {
                 Height = Height,
                 Width = Width,
-                //Margin = new Thickness(50, 50, 0, 0),
-                Source = new BitmapImage(new Uri(@"D:\images\Green.jpg"))
+                Source = new BitmapImage(imageUri),
+                Margin = new Thickness(X * (Width) - MapConstant.GridWidth, Y * (Height) - MapConstant.GridHeight, 0, 0)
             };
         }
     }

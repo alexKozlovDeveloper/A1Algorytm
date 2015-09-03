@@ -1,16 +1,14 @@
-c:\users\aliaksei_kazlou\documents\visual studio 2013\Projects\TestA1\TestA1\bin\Debug\TestA1.exe.config
-C:\Users\Aliaksei_Kazlou\documents\visual studio 2013\Projects\TestA1\TestA1\bin\Debug\TestA1.exe
-C:\Users\Aliaksei_Kazlou\documents\visual studio 2013\Projects\TestA1\TestA1\bin\Debug\TestA1.pdb
-C:\Users\Aliaksei_Kazlou\documents\visual studio 2013\Projects\TestA1\TestA1\obj\Debug\TestA1.csprojResolveAssemblyReference.cache
-C:\Users\Aliaksei_Kazlou\documents\visual studio 2013\Projects\TestA1\TestA1\obj\Debug\MainWindow.baml
-C:\Users\Aliaksei_Kazlou\documents\visual studio 2013\Projects\TestA1\TestA1\obj\Debug\MainWindow.g.cs
-C:\Users\Aliaksei_Kazlou\documents\visual studio 2013\Projects\TestA1\TestA1\obj\Debug\App.g.cs
-C:\Users\Aliaksei_Kazlou\documents\visual studio 2013\Projects\TestA1\TestA1\obj\Debug\TestA1_MarkupCompile.cache
-C:\Users\Aliaksei_Kazlou\documents\visual studio 2013\Projects\TestA1\TestA1\obj\Debug\TestA1.g.resources
-C:\Users\Aliaksei_Kazlou\documents\visual studio 2013\Projects\TestA1\TestA1\obj\Debug\TestA1.Properties.Resources.resources
-C:\Users\Aliaksei_Kazlou\documents\visual studio 2013\Projects\TestA1\TestA1\obj\Debug\TestA1.csproj.GenerateResource.Cache
-C:\Users\Aliaksei_Kazlou\documents\visual studio 2013\Projects\TestA1\TestA1\obj\Debug\TestA1.exe
-C:\Users\Aliaksei_Kazlou\documents\visual studio 2013\Projects\TestA1\TestA1\obj\Debug\TestA1.pdb
-C:\Users\Aliaksei_Kazlou\Documents\A1Algorytm\TestA1\TestA1\bin\Debug\TestA1.exe.config
-C:\Users\Aliaksei_Kazlou\Documents\A1Algorytm\TestA1\TestA1\obj\Debug\TestA1.exe
-C:\Users\Aliaksei_Kazlou\Documents\A1Algorytm\TestA1\TestA1\obj\Debug\TestA1.pdb
+D:\A1Algorytm\TestA1\TestA1\bin\Debug\TestA1.exe.config
+D:\A1Algorytm\TestA1\TestA1\bin\Debug\TestA1.exe
+D:\A1Algorytm\TestA1\TestA1\bin\Debug\TestA1.pdb
+D:\A1Algorytm\TestA1\TestA1\bin\Debug\MapObjects.dll
+D:\A1Algorytm\TestA1\TestA1\bin\Debug\MapObjects.pdb
+D:\A1Algorytm\TestA1\TestA1\obj\Debug\MainWindow.baml
+D:\A1Algorytm\TestA1\TestA1\obj\Debug\MainWindow.g.cs
+D:\A1Algorytm\TestA1\TestA1\obj\Debug\App.g.cs
+D:\A1Algorytm\TestA1\TestA1\obj\Debug\TestA1_MarkupCompile.cache
+D:\A1Algorytm\TestA1\TestA1\obj\Debug\TestA1.g.resources
+D:\A1Algorytm\TestA1\TestA1\obj\Debug\TestA1.Properties.Resources.resources
+D:\A1Algorytm\TestA1\TestA1\obj\Debug\TestA1.csproj.GenerateResource.Cache
+D:\A1Algorytm\TestA1\TestA1\obj\Debug\TestA1.exe
+D:\A1Algorytm\TestA1\TestA1\obj\Debug\TestA1.pdb
